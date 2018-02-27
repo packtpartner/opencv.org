@@ -1,4 +1,8 @@
 ---
+ revert-2-packtpartner-patch-1
+-   date: '2018-01-01'
+    description: "This book will teach you to develop applications with the combination of OpenCV 3 and Qt5. 
+
 -   date: '2018-01-17'
     description: "Learn the techniques for object recognition, 3D reconstruction, stereo imaging, and other computer vision applications using examples on different functions of OpenCV."
     image: OpenCV_3.x_with_Python_By_Example-Second_Edition.jpg
@@ -7,6 +11,7 @@
     type: book
 -   date: '2018-01-02'
     description: "This book will teach you to develop applications with the combination of OpenCV 3 and Qt5.
+
         This book will teach you to create cross-platform computer vision applications. 
         We’ll begin by introducing Qt, its IDE, and its SDK. 
         Next you’ll learn how to use the OpenCV API to integrate both tools, and see how to configure 
